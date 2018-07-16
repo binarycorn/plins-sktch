@@ -11,6 +11,7 @@ Inhalt
 \***Beginner:**\*
 
 * Einführung
+
   * GUI
     * Canvas
     * Pages
@@ -21,6 +22,7 @@ Inhalt
     * Preferences
 
 * Functions
+
   * Basics
     * Insert-Function
     * Symbols
@@ -28,6 +30,7 @@ Inhalt
     * Inspector
 
 * Plugins
+
   * Must-Haves
     * Runner
     * Abstract / Plant / Kactus / git
@@ -44,6 +47,7 @@ Inhalt
 \***Advanced**\*
 
 * Workflow
+
   * Libraries
     * Symbols
       * Nested Symbols
@@ -53,6 +57,7 @@ Inhalt
   * What is git / How to use it
 
 * Functions II
+
   * Plugins
   * Time Savers
 
@@ -64,6 +69,8 @@ Inhalt
   * Code in Sketch
   * Create Scripts
   * MVP / POC
+
+
 
 
 
