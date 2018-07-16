@@ -6,8 +6,6 @@ Sketch, ein Tool welches seit geraumer Zeit durch die Flure von Agenturen, UXler
 
 ## Wie nutze ich diese Artikel?
 
-
-
 Inhalt
 
 \***Beginner:**\*
@@ -22,16 +20,12 @@ Inhalt
     * Inspector
     * Preferences
 
-
-
 * Functions
   * Basics
     * Insert-Function
     * Symbols
     * Editing
     * Inspector
-
-
 
 * Plugins
   * Must-Haves
@@ -58,13 +52,9 @@ Inhalt
   * Teamwork
   * What is git / How to use it
 
-
-
 * Functions II
   * Plugins
   * Time Savers
-
-
 
 
 
