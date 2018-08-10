@@ -1,8 +1,5 @@
 # Summary
 
-* [Vorwort](README.md)
-* [First Chapter](chapter1.md)
-* [Probleme](probleme.md)
-* [Workshop](workshop.md)
+* [Intro](README.md)
 * [Plugins](plugins.md)
 
